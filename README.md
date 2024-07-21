@@ -9,6 +9,9 @@
 
 This data analysis project aims to provide insights into the data of performance of football teams over the past year. By analyzing various aspects of the data, we seek to identify trends, make data driven recommendations, and gain deeper understanding of which is the best team for the company to invest in.
 
+![football team vs performance chart](https://github.com/user-attachments/assets/ad268cc0-15a7-448e-b7c8-49c753bf71d0)
+
+
 ### Data Sources
 
 Data: The primary dataset used for this analysis is the "Premier_League_Final_Data_batch2.csv" file, containing detailed information about each team's goals, number of wins, loss and draws.
